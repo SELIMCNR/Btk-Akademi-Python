@@ -37,7 +37,11 @@ for i in range(2,sayi):
 if asalmi:
     print("Sayı asaldır.")
 else:
-    print("Sayı asal değildir.")        
+    print("Sayı asal değildir.") 
+    
+    
+    
+           
     
     
     
